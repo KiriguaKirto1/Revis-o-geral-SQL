@@ -1,2 +1,2 @@
-## Revisão-geral-SQL
-# Segue artefato interativo para exercitar os principais conceitos associados ao uso do SQL, bem como dos processos de uso de ferramentas como SUPABASE e GITHUB. Ao realizar a entrada no artefato, siga todas as orientações. Ao final, o código gerado deve ser colado no supabase como exercício. Por fim, salve tal material dentro do Git Hub, criando novo repositório e enviando o link de acesso aqui nessa atividade.
+# Revisão-geral-SQL
+## Segue artefato interativo para exercitar os principais conceitos associados ao uso do SQL, bem como dos processos de uso de ferramentas como SUPABASE e GITHUB. Ao realizar a entrada no artefato, siga todas as orientações. Ao final, o código gerado deve ser colado no supabase como exercício. Por fim, salve tal material dentro do Git Hub, criando novo repositório e enviando o link de acesso aqui nessa atividade.
